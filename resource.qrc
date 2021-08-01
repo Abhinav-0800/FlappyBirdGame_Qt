@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/flappy_bird_icon.png</file>
+        <file>images/flappybird_bg.png</file>
+        <file>images/game_over_red.png</file>
+        <file>images/piller_down.png</file>
+        <file>images/piller_up.png</file>
+        <file>images/bird_yellow_down1.png</file>
+        <file>images/bird_yellow_up1.png</file>
+    </qresource>
+</RCC>
